@@ -1,4 +1,3 @@
-#Read me
 <!DOCTYPE html>
 <html>
 <body>
