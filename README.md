@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>Fampa-Lee International Lab</h1>
 <p>My first paragraph.</p>
 
 </body>
